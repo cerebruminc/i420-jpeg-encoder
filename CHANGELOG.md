@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/cerebruminc/i420-jpeg-encoder/compare/v1.2.0...v1.2.1) (2026-07-16)
+
+
+### Bug Fixes
+
+* **deps:** run npm audit fix - address security vulnerabilities ([dbb28b7](https://github.com/cerebruminc/i420-jpeg-encoder/commit/dbb28b7ce36c2648d3b39d112716e2e01d4516f6))
+
 ## [1.2.0](https://github.com/cerebruminc/i420-jpeg-encoder/compare/v1.1.1...v1.2.0) (2026-04-27)
 
 
